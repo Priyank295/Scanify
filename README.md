@@ -1,4 +1,4 @@
-# hackathon
+# Scanify
 
 A new Flutter project.
 
